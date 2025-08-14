@@ -3,7 +3,7 @@
 
 void myPrintHelloMake(void) {
 
-  printf("Hello I am trying to makefiles!\n");
+  printf("Hello makefiles!\n");
 
   return;
 }
